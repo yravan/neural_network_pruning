@@ -4,7 +4,7 @@ Pruning Neural Networks with Matrix Methods (Final Project for 18.065 Spring 202
 
 **Description:** May 2024
 
-![Header Image](assets/18065/header.png)
+![Header Image](assets/header.png)
 
 Neural Networks are the state-of-the-art models for tasks such as classification, regression, generative modeling, etc, yet most networks are very large (AlexNet (240Mb, 21 M parameters), ChatGPT (500Gb, 175 B parameters), etc.).
 
@@ -17,7 +17,7 @@ This project was done for 18.065 (Matrix Methods) & the code can be found [here]
 ## Methods
 
 <div align="center">
-    <img src="assets/18065/methods.png" alt="methods" width="80%">
+    <img src="assets/methods.png" alt="methods" width="80%">
     <div class="caption">
         Methods
     </div>
@@ -26,9 +26,9 @@ This project was done for 18.065 (Matrix Methods) & the code can be found [here]
 ## Algorithm Pseudocode
 
 <div align="center">
-    <img src="assets/18065/randomized_multiplication_algorithm.png" alt="Randomized Multiplication Algorithm" width="32%">
-    <img src="assets/18065/PCA_algorithm.png" alt="PCA Algorithm" width="32%">
-    <img src="assets/18065/Low_Rank_algorithm.png" alt="Low Rank Algorithm" width="32%">
+    <img src="assets/randomized_multiplication_algorithm.png" alt="Randomized Multiplication Algorithm" width="32%">
+    <img src="assets/PCA_algorithm.png" alt="PCA Algorithm" width="32%">
+    <img src="assets/Low_Rank_algorithm.png" alt="Low Rank Algorithm" width="32%">
     <div class="caption">
         Algorithm Pseudocode
     </div>
@@ -51,7 +51,7 @@ More in-depth analysis and results can be found below.
 
 ## Project Presentation
 
-[View Project Presentation](assets/18065/Presentation-2.pdf)
+[View Project Presentation](assets/Presentation-2.pdf)
 
 <div align="center">
     <iframe src="assets/18065/Presentation-2.pdf" width="80%" height="600px"></iframe>
@@ -61,7 +61,7 @@ More in-depth analysis and results can be found below.
 
 ## Project Report
 
-[View Project Report](assets/18065/icml2024-2.pdf)
+[View Project Report](assets/icml2024-2.pdf)
 
 <div align="center">
     <iframe src="assets/18065/icml2024-2.pdf" width="80%" height="600px"></iframe>
