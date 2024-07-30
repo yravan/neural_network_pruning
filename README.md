@@ -53,9 +53,6 @@ More in-depth analysis and results can be found below.
 
 [View Project Presentation](assets/Presentation-2.pdf)
 
-<div align="center">
-    <iframe src="assets/18065/Presentation-2.pdf" width="80%" height="600px"></iframe>
-</div>
 
 ---
 
@@ -63,6 +60,3 @@ More in-depth analysis and results can be found below.
 
 [View Project Report](assets/icml2024-2.pdf)
 
-<div align="center">
-    <iframe src="assets/18065/icml2024-2.pdf" width="80%" height="600px"></iframe>
-</div>
