@@ -50,12 +50,12 @@ More in-depth analysis and results can be found below.
 
 ## Project Presentation
 
-[View Project Presentation](assets/Presentation-2.pdf)
+[View Project Presentation](assets/Presentation_2.pdf)
 
 
 ---
 
 ## Project Report
 
-[View Project Report](assets/icml2024-2.pdf)
+[View Project Report](assets/icml2024_2.pdf)
 
