@@ -3,8 +3,6 @@
 
 ### By Benjamin Ebanks & Yajvan Ravan
 
-**Description:** May 2024
-
 ![Header Image](assets/header.png)
 
 Neural Networks are the state-of-the-art models for tasks such as classification, regression, generative modeling, etc, yet most networks are very large (AlexNet (240Mb, 21 M parameters), ChatGPT (500Gb, 175 B parameters), etc.).
